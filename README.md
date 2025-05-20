@@ -1,6 +1,7 @@
+**Djon AI Helper**  
+
 Створено за матеріалами компанії ТОВ "GoIT".
 
-Djon AI Helper  
 Посилання на демо: https://viktorpro1.github.io/Djon-AI-hepler/
 
 Опис проєкту  
